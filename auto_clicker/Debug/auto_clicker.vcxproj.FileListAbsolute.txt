@@ -1,0 +1,2 @@
+C:\Users\Aurélien\source\repos\auto_clicker\Debug\auto_clicker.exe
+C:\Users\Aurélien\source\repos\auto_clicker\Debug\auto_clicker.pdb
